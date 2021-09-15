@@ -1,0 +1,1 @@
+This is my read me file for this project which i will use to keep updates as well as a self reflection on what i have learned in this project
